@@ -1,7 +1,7 @@
 {
   "metainfo" : {
     "type" : "MWAA",
-    "fabricId" : "1055",
+    "fabricId" : "1056",
     "jobId" : "jobs/job_2_9_2",
     "name" : "job_2_9_2",
     "dagName" : "uitesting_abhisheks_e2etests_helloworld_sql_clone_job_2_9_2",
@@ -103,7 +103,7 @@
         "noVersionCheck" : null,
         "noWriteJson" : null,
         "printerWidth" : null,
-        "sqlFabricId" : "5",
+        "sqlFabricId" : "6",
         "gitEntityValue" : "main123",
         "logFormat" : null,
         "runModelWithChildren" : false,
